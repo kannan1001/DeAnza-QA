@@ -1,2 +1,2 @@
 # DeAnza-QA
-Creating an automated test suite using Selenium IDE
+This repository consists of creating anautomated test cases Selenium IDE
